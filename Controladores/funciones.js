@@ -14,3 +14,8 @@ function mostrarNombre(){
     var nombre="aaron";
     console.log(nombre);
 }
+
+function mostrarApellido(){
+    var apellido="salvador";
+    console.log(apellido);
+}
