@@ -1,6 +1,6 @@
 
 function calcularHora(){
-    var hora="05:40";
+    var hora="06:00";
     console.log(hora);
 }
 
