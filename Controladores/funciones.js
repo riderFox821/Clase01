@@ -11,11 +11,11 @@ function mostrarFecha(){
 
 
 function mostrarNombre(){
-    var nombre="aaron";
+    var nombre="estrellita";
     console.log(nombre);
 }
 
 function mostrarApellido(){
-    var apellido="salvador";
+    var apellido="galan fernandez";
     console.log(apellido);
 }
