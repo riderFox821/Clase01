@@ -11,7 +11,7 @@ function mostrarFecha(){
 
 
 function mostrarNombre(){
-    var nombre="walter";
+    var nombre="estrellita";
     console.log(nombre);
 }
 
