@@ -1,7 +1,7 @@
 
 function calcularHora(){
-    var hora="06:00";
-    console.log(hora);
+    var horario="06:00";
+    console.log(horario);
 }
 
 function mostrarFecha(){
