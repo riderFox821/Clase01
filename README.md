@@ -3,4 +3,4 @@ Clase privada 01 aprendiendo a usar git
 
 Mi primer cambio 
 
-Mi segundo cambio modificado preferencia local
+Mi segundo cambio modificado preferencia a l nube
